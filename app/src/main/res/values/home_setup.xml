@@ -6,7 +6,7 @@
         1. Small
         2. Big
     -->
-    <integer name="home_actions_style">1</integer>
+    <integer name="home_actions_style">0</integer>
 
     <!--
         Do you want to show overview in home section?
@@ -31,19 +31,15 @@
 
     <!-- These arrays are for the list of apps or links in main section. -->
     <string-array name="home_list_titles">
-        <item>IconShowcase</item>
-        <item>An App</item>
+        <item>View on GitHub</item>
     </string-array>
     <string-array name="home_list_descriptions">
-        <item>It is the old version of this awesome dashboard</item>
-        <item>This is an app</item>
+        <item>Check out the project repository!</item>
     </string-array>
     <string-array name="home_list_icons">
-        <item>ic_na_launcher</item>
-        <item>ic_na_launcher</item>
+        <item>ic_github</item>
     </string-array>
     <string-array name="home_list_links">
-        <item>https://github.com/jahirfiquitiva/Blueprint</item>
-        <item>https://play.google.com/store/apps/details?id=com.android.settings</item>
+        <item>https://github.com/davidxuang/PaperIconPack</item>
     </string-array>
 </resources>

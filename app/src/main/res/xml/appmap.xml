@@ -1,9 +1,294 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <appmap>
 
-    <!-- Contacts App -->
     <item
-        class="com.android.contacts.DialtactsContactsEntryActivity"
-        name="people" />
+        class="namecom.adobe.reader/com.adobe.reader.AdobeReader"
+        name="acrobat" />
+
+    <item
+        class="namecom.dv.adm/com.dv.adm.Main"
+        name="___adm" />
+    <item
+        class="namecom.dv.adm/com.dv.get.Main"
+        name="___adm" />
+
+    <item
+        class="namecom.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin"
+        name="alipay" />
+
+    <item
+        class="namecom.allnow.global.app/com.allnow.global.app.module.SplashActivity"
+        name="allnow" />
+
+    <item
+        class="namecom.bilibili.app.in/tv.danmaku.bili.ui.splash.SplashActivity"
+        name="bilibili" />
+    <item
+        class="namecom.bilibili.azurlane/com.manjuu.azurlane.MainActivity"
+        name="bilibili" />
+    <item
+        class="nametv.danmaku.bili/tv.danmaku.bili.ui.splash.SplashActivity"
+        name="bilibili" />
+
+    <item
+        class="namecom.blizzard.messenger/com.blizzard.messenger.ui.splash.SplashActivity"
+        name="blizzard_messenger" />
+
+    <item
+        class="nameme.gfuil.bmap/me.gfuil.bmap.StartActivity"
+        name="bmap" />
+
+    <item
+        class="namecom.chinamworld.bocmbci/com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity"
+        name="bo__c" />
+
+    <item
+        class="namecmb.pb/cmb.pb.app.mainframe.container.PBMainActivity"
+        name="___cmb" />
+
+    <item
+        class="namecom.cmbchina.ccd.pluto.cmbActivity/com.cmbchina.ccd.pluto.cmbActivity.SplashActivity"
+        name="___cmb_credit" />
+
+    <item
+        class="namecom.coolapk.market/com.coolapk.market.view.main.MainActivity"
+        name="coolapk" />
+
+    <item
+        class="namecom.MobileTicket/com.alipay.mobile.quinox.LauncherActivity"
+        name="___cr_ticket" />
+
+    <item
+        class="namecom.dangdang.buy2/com.dangdang.buy2.StartupActivity"
+        name="dangdang" />
+
+    <item
+        class="namecom.screenovate.dell.mobileconnect/com.screenovate.bluephone.MainActivity"
+        name="dell_mobile_connect" />
+
+    <item
+        class="namecom.sdu.didi.psnger/com.didi.sdk.app.launch.splash.SplashActivity"
+        name="didi" />
+
+    <item
+        class="namecom.discord/com.discord.app.AppActivity$Main"
+        name="discord" />
+
+    <item
+        class="namecom.douban.frodo/com.douban.frodo.activity.SplashActivity"
+        name="douban" />
+
+    <item
+        class="namecom.google.android.gm/com.google.android.gm.ConversationListActivityGmail"
+        name="gmail" />
+
+    <item
+        class="namecom.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity"
+        name="google_lens" />
+
+    <item
+        class="namecom.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity"
+        name="google_photos" />
+
+    <item
+        class="namecom.oasisfeng.greenify/com.oasisfeng.greenify.GreenifyActivity"
+        name="greenify" />
+
+    <item
+        class="namecom.gf.client/com.gf.mobile.control.LauncherActivity"
+        name="guangfa_securities" />
+
+    <item
+        class="namecom.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity"
+        name="jingdong" />
+
+    <item
+        class="namecom.jd.jrapp/com.jd.jrapp.bm.mainbox.main.MainActivity"
+        name="jingdong_finance" />
+
+    <item
+        class="nameorg.xbmc.kodi/org.xbmc.kodi.Splash"
+        name="kodi" />
+
+    <item
+        class="namecom.sankuai.meituan/com.meituan.android.pt.homepage.activity.MainActivity"
+        name="meituan" />
+
+    <item
+        class="namecom.microsoft.rdc.androidx/com.microsoft.rdc.ui.activities.HomeActivity"
+        name="microsoft_remote_desktop" />
+
+    <item
+        class="namejp.pxv.android/jp.pxv.android.activity.RoutingActivity"
+        name="pixiv" />
+
+    <item
+        class="namecom.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity"
+        name="qq" />
+
+    <item
+        class="namecom.htc.fm/com.htc.fm.ap.activity.FMRadioMain"
+        name="radio" />
+    <item
+        class="namecom.htc.fm/com.htc.fm.FMRadio"
+        name="radio" />
+    <item
+        class="namecom.android.fm/com.android.fm.radio.FMRadio"
+        name="radio" />
+    <item
+        class="namecom.caf.fmradio/com.caf.fmradio.FMRadio"
+        name="radio" />
+    <item
+        class="namecom.sec.android.app.fm/com.sec.android.app.fm.MainActivity"
+        name="radio" />
+    <item
+        class="namecom.motorola.motofmradio/com.motorola.motofmradio.FMPlayer"
+        name="radio" />
+    <item
+        class="namecom.lge.fmradio/com.lge.fmradio.FmRadio"
+        name="radio" />
+    <item
+        class="namecom.sonyericsson.fmradio/com.sonyericsson.fmradio.FMRadioActivity"
+        name="radio" />
+    <item
+        class="namecom.sonyericsson.fmradio/com.sonyericsson.fmradio.ui.FmRadioActivity"
+        name="radio" />
+    <item
+        class="namecom.motorola.fmradio/com.motorola.fmradio.FMRadioMain"
+        name="radio" />
+    <item
+        class="namelge.android.fmradio/lge.android.fmradio.FmRadioView"
+        name="radio" />
+    <item
+        class="namecom.android.fmradio/com.android.fmradio.FMRadio"
+        name="radio" />
+    <item
+        class="namecom.mediatek.fmradio/com.mediatek.fmradio.FmRadioActivity"
+        name="radio" />
+    <item
+        class="namecom.android.fmradio/com.android.fmradio.FmMainActivity"
+        name="radio" />
+    <item
+        class="namecom.quicinc.fmradio/com.broadcom.bt.app.fm.rx.FmRadio"
+        name="radio" />
+    <item
+        class="namecom.miui.fm/com.miui.fmradio.FmActivity"
+        name="radio" />
+    <item
+        class="namecom.miui.fmradio/com.miui.fmradio.FMRadioMain"
+        name="radio" />
+    <item
+        class="namecom.miui.fmradio/com.miui.fmradio.FmRadioActivity"
+        name="radio" />
+    <item
+        class="namecom.lge.fmradio/com.lge.fmradio.IntroActivity"
+        name="radio" />
+    <item
+        class="namecn.nubia.fmradio.preset/cn.nubia.fmradio.FMRadio"
+        name="radio" />
+    <item
+        class="namecom.lenovo.fm/com.lenovo.fm.RadioActivity"
+        name="radio" />
+    <item
+        class="namecom.samsung.app.fmradio/com.samsung.app.fmradio.FmRadioPlaybackActivity"
+        name="radio" />
+    <item
+        class="namecom.huawei.android.FMRadio/com.huawei.android.FMRadio.FMRadioMainActivity"
+        name="radio" />
+    <item
+        class="namecom.syu.radio/com.syu.radio.Launch"
+        name="radio" />
+    <item
+        class="namecom.mediatek.FMRadio/com.mediatek.FMRadio.FMRadioActivity"
+        name="radio" />
+    <item
+        class="namecom.evenwell.fmradio/com.evenwell.fmradio.FMRadioActivity"
+        name="radio" />
+
+    <item
+        class="namecom.reddit.frontpage/launcher.default"
+        name="reddit" />
+
+    <item
+        class="nameio.nekohasekai.sagernet/io.nekohasekai.sagernet.ui.MainActivity"
+        name="sager__net" />
+
+    <item
+        class="namecom.android.stk/com.android.stk.StkMain"
+        name="___sim" />
+    <item
+        class="namecom.android.stk/com.android.stk.StkLauncherActivity"
+        name="___sim" />
+    <item
+        class="namecom.android.stk/com.android.stk.StkLauncherActivity1"
+        name="___sim" />
+    <item
+        class="namecom.android.stk/com.android.stk.StkLauncherActivityI"
+        name="___sim" />
+    <item
+        class="namecom.android.stk/com.android.stk.StkLauncherActivity2"
+        name="___sim" />
+    <item
+        class="namecom.android.stk/com.android.stk.StkLauncherActivityII"
+        name="___sim" />
+    <item
+        class="namecom.android.stk/com.android.stk.StkLauncherListActivity"
+        name="___sim" />
+    <item
+        class="namecom.android.stk/com.android.stk.SubStkLauncherActivity"
+        name="___sim" />
+
+    <item
+        class="namecom.smzdm.client.android/com.smzdm.client.android.app.WelComeActivity"
+        name="___smzdm" />
+
+    <item
+        class="namecom.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity"
+        name="steam" />
+
+    <item
+        class="namecom.taobao.taobao/com.taobao.tao.welcome.Welcome"
+        name="taobao" />
+
+    <item
+        class="nameorg.telegram.messenger/org.telegram.ui.LaunchActivity"
+        name="telegram" />
+
+    <item
+        class="namecom.termux/com.termux.app.TermuxActivity"
+        name="terminal" />
+    <item
+        class="namejackpal.androidterm/jackpal.androidterm.Term"
+        name="terminal" />
+
+    <item
+        class="namecom.tencent.tim/com.tencent.mobileqq.activity.SplashActivity"
+        name="___tim" />
+
+    <item
+        class="namecom.twitter.android/com.twitter.android.StartActivity"
+        name="twitter" />
+
+    <item
+        class="namecom.unionpay/com.unionpay.activity.UPActivityMain"
+        name="union__pay" />
+
+    <item
+        class="namecom.tencent.mm/com.tencent.mm.ui.LauncherUI"
+        name="we__chat" />
+
+    <item
+        class="namecom.sina.weibo/com.sina.weibo.SplashActivity"
+        name="weibo" />
+    <item
+        class="namecom.sina.sinaweibo/com.sina.sinaweibo.SplashActivity"
+        name="weibo" />
+    <item
+        class="namecom.weico.international/com.weico.international.activity.LogoActivity"
+        name="weibo" />
+
+    <item
+        class="namecom.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity"
+        name="youtube" />
 
 </appmap>

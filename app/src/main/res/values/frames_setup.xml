@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <!--    This is the link for the JSON file where you have listed your wallpapers -->
-    <string name="json_url">https://jahir.dev/frames/frames.json</string>
+    <string name="json_url">https://gist.githubusercontent.com/davidxuang/9d27960b46726bb8cd6ef5640b2df672/raw/wallpapers.json</string>
 
     <!--
     Enable immediate download

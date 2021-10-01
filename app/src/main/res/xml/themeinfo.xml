@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- This is for Atom Launcher -->
 <themeInfo>
-    <packageName>dev.jahir.blueprint.app</packageName>
-    <versionName>1.0</versionName>
-    <versionCode>1</versionCode>
-    <themeName>Blueprint</themeName>
+    <packageName>dev.davidxuang.paper</packageName>
+    <versionName>0.1.0</versionName>
+    <versionCode>100</versionCode>
+    <themeName>Paper</themeName>
     <!-- Default Component Color -->
     <themePointColor>#00b0ff</themePointColor>
-    <themePreview img1="preview1" />
-    <preview img1="preview1" />
+    <themePreview img1="preview_1" />
+    <preview img1="preview_1" />
 </themeInfo>

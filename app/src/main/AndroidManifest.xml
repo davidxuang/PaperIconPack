@@ -1,9 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="dev.jahir.blueprint.app">
+    package="dev.davidxuang.paper">
 
     <!-- Permission required for donations. Remove it if you don't use it -->
-    <uses-permission android:name="com.android.vending.BILLING" />
+    <!--<uses-permission android:name="com.android.vending.BILLING" />-->
 
     <application
         android:name=".MyApplication"
@@ -233,7 +233,7 @@
         </provider>
 
         <!-- Muzei Service -->
-        <provider
+        <!--<provider
             android:name=".MuzeiService"
             android:authorities="${applicationId}.muzei"
             android:exported="true"
@@ -250,7 +250,7 @@
             <meta-data
                 android:name="settingsActivity"
                 android:value="dev.jahir.kuper.ui.activities.KuperMuzeiSettingsActivity" />
-        </provider>
+        </provider>-->
 
         <!-- TODO: Remove comment marks to enable Zooper
         <provider

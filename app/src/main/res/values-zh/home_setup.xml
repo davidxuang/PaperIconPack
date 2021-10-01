@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingDefaultResource">
+    <string-array name="home_list_titles">
+        <item>转到 GitHub</item>
+    </string-array>
+    <string-array name="home_list_descriptions">
+        <item>访问项目仓库</item>
+    </string-array>
+</resources>

@@ -3,50 +3,59 @@
 
     <version>1</version>
 
-    <category title="Latest" />
-
-    <category title="System" />
-    <item drawable="an_icon" />
-    <item drawable="andy" />
-    <item drawable="another_icon" />
-    <item drawable="icon_one" />
-    <item drawable="icon_with_a_long_name" />
-    <item drawable="icons_everywhere" />
-    <item drawable="second_icon" />
-    <item drawable="this_is_an_icon" />
-
-    <category title="Google Apps" />
-    <item drawable="an_icon" />
-    <item drawable="andy" />
-    <item drawable="another_icon" />
-    <item drawable="icon_one" />
-    <item drawable="icon_with_a_long_name" />
-    <item drawable="icons_everywhere" />
-    <item drawable="second_icon" />
-    <item drawable="this_is_an_icon" />
-
-    <category title="Games" />
-    <item drawable="a_better_camera" />
-    <item drawable="adaway" />
-    <item drawable="adobe_creative_cloud" />
-    <item drawable="afterfocus" />
-
-    <category title="Drawers" />
-    <item drawable="a_better_camera" />
-    <item drawable="aa" />
-    <item drawable="acdisplay" />
-    <item drawable="afterlight" />
-    <item drawable="airdroid" />
-    <item drawable="alarmpad" />
+    <category title="Added" />
+    <item drawable="allnow" />
+    <item drawable="discord" />
+    <item drawable="greenify" />
+    <item drawable="pixiv" />
+    <item drawable="sager__net" />
+    <item drawable="reddit" />
+    <item drawable="telegram" />
 
     <category title="All" />
-    <item drawable="an_icon" />
-    <item drawable="andy" />
-    <item drawable="another_icon" />
-    <item drawable="icon_one" />
-    <item drawable="icon_with_a_long_name" />
-    <item drawable="icons_everywhere" />
-    <item drawable="second_icon" />
-    <item drawable="this_is_an_icon" />
+    <item drawable="acrobat" />
+    <item drawable="___adm" />
+    <item drawable="alipay" />
+    <item drawable="allnow" />
+    <item drawable="bilibili" />
+    <item drawable="blizzard_messenger" />
+    <item drawable="bmap" />
+    <item drawable="bo__c" />
+    <item drawable="___cmb" />
+    <item drawable="___cmb_credit" />
+    <item drawable="coolapk" />
+    <item drawable="___cr_ticket" />
+    <item drawable="dangdang" />
+    <item drawable="dell_mobile_connect" />
+    <item drawable="didi" />
+    <item drawable="discord" />
+    <item drawable="douban" />
+    <item drawable="gmail" />
+    <item drawable="google_lens" />
+    <item drawable="google_photos" />
+    <item drawable="greenify" />
+    <item drawable="guangfa_securities" />
+    <item drawable="jingdong" />
+    <item drawable="jingdong_finance" />
+    <item drawable="kodi" />
+    <item drawable="meituan" />
+    <item drawable="microsoft_remote_desktop" />
+    <item drawable="pixiv" />
+    <item drawable="qq" />
+    <item drawable="radio" />
+    <item drawable="sager__net" />
+    <item drawable="steam" />
+    <item drawable="reddit" />
+    <item drawable="___sim" />
+    <item drawable="___smzdm" />
+    <item drawable="taobao" />
+    <item drawable="telegram" />
+    <item drawable="terminal" />
+    <item drawable="___tim" />
+    <item drawable="twitter" />
+    <item drawable="union__pay" />
+    <item drawable="we__chat" />
+    <item drawable="weibo" />
+    <item drawable="youtube" />
 
 </resources>
