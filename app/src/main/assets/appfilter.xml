@@ -24,6 +24,9 @@
         component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.ui.splash.SplashActivity}"
         drawable="bilibili" />
     <item
+        component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.MainActivityV2}"
+        drawable="bilibili" />
+    <item
         component="ComponentInfo{com.bilibili.azurlane/com.manjuu.azurlane.MainActivity}"
         drawable="bilibili" />
     <item
@@ -57,6 +60,9 @@
     <item
         component="ComponentInfo{com.MobileTicket/com.alipay.mobile.quinox.LauncherActivity}"
         drawable="___cr_ticket" />
+    <item
+        component="ComponentInfo{com.MobileTicket/com.MobileTicket.ui.activity.WelcomeGuideActivity}"
+        drawable="___cr_ticket" />
 
     <item
         component="ComponentInfo{com.dangdang.buy2/com.dangdang.buy2.StartupActivity}"
@@ -72,6 +78,9 @@
 
     <item
         component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}"
+        drawable="discord" />
+    <item
+        component="ComponentInfo{com.discord/com.discord.main.MainActivity}"
         drawable="discord" />
 
     <item
@@ -124,7 +133,7 @@
 
     <item
         component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}"
-        drawable="qq" />
+        drawable="___qq" />
 
     <item
         component="ComponentInfo{com.htc.fm/com.htc.fm.ap.activity.FMRadioMain}"
@@ -245,6 +254,9 @@
     <item
         component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}"
         drawable="steam" />
+    <item
+        component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.MainActivity}"
+        drawable="steam" />
 
     <item
         component="ComponentInfo{com.taobao.taobao/com.taobao.tao.welcome.Welcome}"
@@ -252,6 +264,9 @@
 
     <item
         component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}"
+        drawable="telegram" />
+    <item
+        component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.DefaultIcon}"
         drawable="telegram" />
 
     <item
@@ -286,9 +301,12 @@
     <item
         component="ComponentInfo{com.weico.international/com.weico.international.activity.LogoActivity}"
         drawable="weibo" />
+    <item
+        component="ComponentInfo{com.weico.international/com.weico.international.appicon_white}"
+        drawable="weibo" />
 
     <item
         component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}"
-        drawable="youtube" />
+        drawable="you__tube" />
 
 </resources>

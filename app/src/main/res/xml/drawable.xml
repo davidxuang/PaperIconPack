@@ -41,7 +41,7 @@
     <item drawable="meituan" />
     <item drawable="microsoft_remote_desktop" />
     <item drawable="pixiv" />
-    <item drawable="qq" />
+    <item drawable="___qq" />
     <item drawable="radio" />
     <item drawable="sager__net" />
     <item drawable="steam" />
@@ -56,6 +56,6 @@
     <item drawable="union__pay" />
     <item drawable="we__chat" />
     <item drawable="weibo" />
-    <item drawable="youtube" />
+    <item drawable="you__tube" />
 
 </resources>
