@@ -1,22 +1,5 @@
-// TODO: Remove comment marks to enable
-/*
-buildscript {
-    repositories {
-        google()
-        mavenCentral()
-        gradlePluginPortal()
-    }
-
-    dependencies {
-        classpath Plugins.oneSignal
-    }
-}
-
-apply plugin: 'com.onesignal.androidsdk.onesignal-gradle-plugin'
-*/
-
 apply plugin: 'com.android.application'
-apply plugin: 'kotlin-android'
+apply plugin: 'org.jetbrains.kotlin.android'
 apply plugin: 'kotlin-parcelize'
 apply plugin: 'com.google.devtools.ksp'
 
@@ -27,9 +10,7 @@ android {
         disable 'MissingTranslation', 'GoogleAppIndexingWarning'
     }
 
-    compileSdkVersion Versions.targetSdk
-    buildToolsVersion Versions.buildTools
-
+    namespace MyApp.appId
     defaultConfig {
         buildConfigField("String", "ONESIGNAL_APP_ID", "\"$OneSignal.appId\"")
         manifestPlaceholders = [
@@ -38,6 +19,7 @@ android {
         ]
         applicationId MyApp.appId
         minSdkVersion Versions.minSdk
+        compileSdk Versions.targetSdk
         targetSdkVersion Versions.targetSdk
         versionCode MyApp.version
         versionName MyApp.versionName
@@ -83,12 +65,16 @@ android {
     }
 
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
     }
 
     kotlinOptions {
-        jvmTarget = '1.8'
+        jvmTarget = '17'
+    }
+
+    buildFeatures {
+        buildConfig = true
     }
 }
 
