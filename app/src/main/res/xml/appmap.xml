@@ -2,6 +2,14 @@
 <appmap>
 
     <item
+        class="com.tmri.app.ui.activity.main.TmriNewActivity"
+        name="_12123" />
+
+    <item
+        class="cn.qimate.bike.full.SplashActivity"
+        name="___7ma" />
+
+    <item
         class="com.adobe.reader.AdobeReader"
         name="acrobat" />
 
@@ -13,6 +21,14 @@
         name="___adm" />
 
     <item
+        class="com.rytong.airchina.unility.splash.activity.SplashActivity"
+        name="air_china" />
+
+    <item
+        class="com.alibaba.wireless.launch.LauncherActivity"
+        name="alibaba" />
+
+    <item
         class="com.eg.android.AlipayGphone.AlipayLogin"
         name="alipay" />
 
@@ -21,11 +37,22 @@
         name="allnow" />
 
     <item
+        class="com.autonavi.map.activity.SplashActivity"
+        name="amap" />
+
+    <item
+        class="android.support.customtabs.trusted.LauncherActivity"
+        name="___bga" />
+    <item
+        class="com.boardgamearena.bgaapp.LauncherActivity"
+        name="___bga" />
+
+    <item
         class="tv.danmaku.bili.ui.splash.SplashActivity"
         name="bilibili" />
-	<item
-		class="tv.danmaku.bili.MainActivityV2"
-		name="bilibili"/>
+    <item
+        class="tv.danmaku.bili.MainActivityV2"
+        name="bilibili" />
     <item
         class="com.manjuu.azurlane.MainActivity"
         name="bilibili" />
@@ -38,12 +65,207 @@
         name="blizzard_messenger" />
 
     <item
+        class="com.soft.blued.icon0"
+        name="blued" />
+
+    <item
         class="me.gfuil.bmap.StartActivity"
         name="bmap" />
 
     <item
         class="com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity"
         name="bo__c" />
+
+    <item
+        class="com.cainiao.wireless.homepage.view.activity.WelcomeActivity"
+        name="cainiao" />
+
+    <item
+        class="com.caixin.android.component_launcher.LauncherContainerActivity"
+        name="caixin_news" />
+
+    <item
+        class="com.android.calculator2.Calculator"
+        name="calculator" />
+    <item
+        class="com.android.calculator2.CalculatorActivity"
+        name="calculator" />
+    <item
+        class="com.android.calculator2.Calculator-Dark"
+        name="calculator" />
+    <item
+        class="com.android.calculator2.Calculator"
+        name="calculator" />
+    <item
+        class="com.android2.calculator3.Calculator"
+        name="calculator" />
+    <item
+        class="com.xlythe.calculator.material.Calculator"
+        name="calculator" />
+    <item
+        class="com.htc.calculator.Calculator"
+        name="calculator" />
+    <item
+        class="com.meizu.flyme.calculator.Calculator"
+        name="calculator" />
+    <item
+        class="com.miui.calculator.cal.CalculatorActivity"
+        name="calculator" />
+    <item
+        class="com.oneplus.calculator.Calculator"
+        name="calculator" />
+    <item
+        class="com.smartisanos.calculator.Calculator"
+        name="calculator" />
+    <item
+        class="com.android.bbkcalculator.Calculator"
+        name="calculator" />
+    <item
+        class="com.sec.android.app.popupcalculator.Calculator"
+        name="calculator" />
+    <item
+        class="com.zui.calculator.Calculator"
+        name="calculator" />
+
+    <item
+        class="com.android.calendar.AllInOneActivity"
+        name="calendar" />
+    <item
+        class="com.android.calendar.AllInOneActivity"
+        name="calendar" />
+    <item
+        class="am.sunrise.android.calendar.ui.HomeActivity"
+        name="calendar" />
+    <item
+        class="com.meizu.flyme.calendar.AllInOneActivity"
+        name="calendar" />
+    <item
+        class="com.android.calendar.homepage.AllInOneActivity"
+        name="calendar" />
+    <item
+        class="com.android.calendar.AllInOneActivity"
+        name="calendar" />
+    <item
+        class="com.android.calendar.LaunchActivity"
+        name="calendar" />
+    <item
+        class="com.android.calendar.HtcCalendarProvider"
+        name="calendar" />
+    <item
+        class="com.android.calendar.CalendarTabActivity"
+        name="calendar" />
+    <item
+        class="com.android.calendar.MonthActivity"
+        name="calendar" />
+    <item
+        class="com.android.calendar.LaunchActivity"
+        name="calendar" />
+    <item
+        class="com.android.calendar.AgendaActivity"
+        name="calendar" />
+    <item
+        class="com.android.calendar.EventInfoActivity"
+        name="calendar" />
+    <item
+        class="com.android.calendar.EditEventActivity"
+        name="calendar" />
+    <item
+        class="com.android.calendar.timeline.EventListWithStartTime"
+        name="calendar" />
+    <item
+        class="com.android.calendar.ChooserActivity"
+        name="calendar" />
+    <item
+        class="com.android.calendar.LaunchTasksActivity"
+        name="calendar" />
+    <item
+        class="com.htc.calendar.CalendarActivityMain"
+        name="calendar" />
+    <item
+        class="com.lenovo.android.calendar.SplashActivity"
+        name="calendar" />
+    <item
+        class="com.sonymobile.calendar.LaunchActivity"
+        name="calendar" />
+    <item
+        class="cn.nubia.calendar.AllInOneActivity"
+        name="calendar" />
+    <item
+        class="com.bbk.calendar.MainActivity"
+        name="calendar" />
+    <item
+        class="com.android.calendar.AllInOneActivity"
+        name="calendar" />
+    <item
+        class="com.zui.calendar.MainActivity"
+        name="calendar" />
+    <item
+        class="com.lenovo.calendar.splashpic.SplashActivity"
+        name="calendar" />
+    <item
+        class="com.blackberry.calendar.AllInOneActivity"
+        name="calendar" />
+
+    <item
+        class="com.android.camera.CameraActivity"
+        name="camera" />
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.android.camera.Camera"
+        name="camera" />
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.htc.camera.CameraEntry"
+        name="camera" />
+    <item
+        class="com.motorola.camera.Camera"
+        name="camera" />
+    <item
+        class="com.meizu.media.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.oneplus.camera.OPCameraActivity"
+        name="camera" />
+    <item
+        class="com.sonyericsson.android.camera.CameraActivity"
+        name="camera" />
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.sec.android.app.camera.Camera"
+        name="camera" />
+    <item
+        class="com.zui.cameragallery.camera.CameraActivity"
+        name="camera" />
+    <item
+        class="com.huawei.camera"
+        name="camera" />
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="camera" />
+
+    <item
+        class="com.cq.government.ui.starter.SplashActivity"
+        name="chongqing_government" />
+
+    <item
+        class="cn.com.whty.cqt.ui.SplashActivity"
+        name="chongqing_pay__easy" />
+
+    <item
+        class="cn.com.chsi.chsiapp.GuideActivity"
+        name="___chsi" />
 
     <item
         class="cmb.pb.app.mainframe.container.PBMainActivity"
@@ -54,23 +276,104 @@
         name="___cmb_credit" />
 
     <item
+        class="com.mc10086.cmcc.base.StartPageActivity"
+        name="___cmcc" />
+
+    <item
+        class="com.android.contacts.activities.PeopleActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts.activities.PeopleActivity"
+        name="contacts" />
+    <item
+        class="com.oneplus.contacts.activities.OPPeopleActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts.DialtactsActivityAlias"
+        name="contacts" />
+    <item
+        class="com.android.contacts.PeopleActivityAlias"
+        name="contacts" />
+    <item
+        class="com.android.mms.ui.ConversationList"
+        name="contacts" />
+    <item
+        class="com.android.contacts.DialtactsContactsEntryActivity"
+        name="contacts" />
+    <item
+        class="com.yulong.android.contacts.ui.main.ContactMainActivity"
+        name="contacts" />
+    <item
+        class="com.yulong.android.contacts.life.YellowPageActivity"
+        name="contacts" />
+    <item
+        class="cn.nubia.contacts.mainlist.PeopleActivity"
+        name="contacts" />
+    <item
+        class="com.lenovo.ideafriend.alias.MmsActivity"
+        name="contacts" />
+    <item
+        class="com.chinamobile.contacts.im.LoadingPage"
+        name="contacts" />
+    <item
+        class="com.android.contacts.activities.PeopleActivity"
+        name="contacts" />
+    <item
+        class="com.android.newcontact.vl.activity.XLaunchActivity"
+        name="contacts" />
+    <item
+        class="com.htc.contacts.BrowseLayerCarouselActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts.activities.PeopleActivity"
+        name="contacts" />
+    <item
+        class="com.sonyericsson.android.socialphonebook.LaunchActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts.activities.PeopleActivity"
+        name="contacts" />
+
+    <item
         class="com.coolapk.market.view.main.MainActivity"
         name="coolapk" />
 
     <item
+        class="com.cecurs.home.newhome.ui.main.NewHomeActivity"
+        name="___cq_wallet" />
+
+    <item
         class="com.alipay.mobile.quinox.LauncherActivity"
-        name="___cr_ticket" />
-	<item
-		class="com.MobileTicket.ui.activity.WelcomeGuideActivity"
-		name="___cr_ticket"/>
+        name="___cr_12306" />
+    <item
+        class="com.MobileTicket.ui.activity.WelcomeGuideActivity"
+        name="___cr_12306" />
+    <item
+        class="com.MobileTicket.ui.activity.WelcomeGuideActivity"
+        name="___cr_12306" />
+
+    <item
+        class="com.bwton.metro.lanuch.LanuchActivity"
+        name="___crt" />
 
     <item
         class="com.dangdang.buy2.StartupActivity"
         name="dangdang" />
 
     <item
+        class="com.alipay.mobile.quinox.LauncherActivity"
+        name="___dcep" />
+
+    <item
         class="com.screenovate.bluephone.MainActivity"
         name="dell_mobile_connect" />
+
+    <item
+        class="com.dianping.main.guide.LaunchActivity"
+        name="dianping" />
+    <item
+        class="com.dianping.v1.NovaMainActivity"
+        name="dianping" />
 
     <item
         class="com.didi.sdk.app.launch.splash.SplashActivity"
@@ -88,16 +391,128 @@
         name="douban" />
 
     <item
+        class="me.ele.Launcher"
+        name="eleme" />
+
+    <item
+        class="com.google.android.apps.nbu.files.home.HomeActivity"
+        name="files" />
+    <item
+        class="com.htc.filemanager.FileManagerActivity"
+        name="files" />
+    <item
+        class="com.motorola.filemanager.MainFileManagerActivity"
+        name="files" />
+    <item
+        class="cn.nubia.myfile.CategoryActivity"
+        name="files" />
+    <item
+        class="com.amaze.filemanager.activities.MainActivity"
+        name="files" />
+    <item
+        class="com.android.documentsui.DocumentsActivity"
+        name="files" />
+    <item
+        class="com.android.fileexplorer.FileExplorerTabActivity"
+        name="files" />
+    <item
+        class="com.android.filemanager.FileManagerActivity"
+        name="files" />
+    <item
+        class="com.coloros.filemanager.Main"
+        name="files" />
+    <item
+        class="com.cyanogenmod.filemanager.activities.NavigationActivity"
+        name="files" />
+    <item
+        class="com.fihtdc.filemanager.FileManager"
+        name="files" />
+    <item
+        class="com.huawei.hidisk.filemanager.FileManager"
+        name="files" />
+    <item
+        class="com.intel.filemanager.FileMainActivity"
+        name="files" />
+    <item
+        class="com.jide.filemanager.FileManagerActivity"
+        name="files" />
+    <item
+        class="com.lenovo.FileBrowser.activities.FileBrowserMain"
+        name="files" />
+    <item
+        class="com.letv.android.filemanager.activities.FileManagerActivity"
+        name="files" />
+    <item
+        class="com.lge.filemanager.view.LaunchActivity"
+        name="files" />
+    <item
+        class="com.mediatek.filemanager.FileManagerOperationActivity"
+        name="files" />
+    <item
+        class="com.meizu.flyme.filemanager.activity.HomeActivity"
+        name="files" />
+    <item
+        class="com.mobisystems.files.FileBrowser"
+        name="files" />
+    <item
+        class="com.mobisystems.files.FileBrowser"
+        name="files" />
+    <item
+        class="com.oneplus.filemanager.HomePageActivity"
+        name="files" />
+    <item
+        class="com.sec.android.app.myfiles.common.MainActivity"
+        name="files" />
+    <item
+        class="com.sec.android.app.myfiles.MainActivity"
+        name="files" />
+    <item
+        class="com.smartisan.filemanager.MainActivity"
+        name="files" />
+    <item
+        class="com.yulong.android.filebrowser.activity.LeadingActivity"
+        name="files" />
+    <item
+        class="com.zui.filemanager.MainActivity"
+        name="files" />
+    <item
+        class="com.amaze.filemanager.activities.MainActivity"
+        name="files" />
+    <item
+        class="zte.com.cn.filer.FilerActivity"
+        name="files" />
+
+    <item
         class="com.google.android.gm.ConversationListActivityGmail"
         name="gmail" />
+
+    <item
+        class="com.google.android.googlequicksearchbox.SearchActivity"
+        name="google" />
+
+    <item
+        class="com.google.android.apps.docs.app.NewMainProxyActivity"
+        name="google_drive" />
+
+    <item
+        class="com.google.android.apps.earth.flutter.EarthFlutterActivity"
+        name="google_earth" />
 
     <item
         class="com.google.vr.apps.ornament.app.lens.LensLauncherActivity"
         name="google_lens" />
 
     <item
+        class="com.google.android.maps.MapsActivity"
+        name="google_maps" />
+
+    <item
         class="com.google.android.apps.photos.home.HomeActivity"
         name="google_photos" />
+
+    <item
+        class="com.android.vending.AssetBrowserActivity"
+        name="google_play_store" />
 
     <item
         class="com.oasisfeng.greenify.GreenifyActivity"
@@ -106,6 +521,33 @@
     <item
         class="com.gf.mobile.control.LauncherActivity"
         name="guangfa_securities" />
+
+    <item
+        class="com.hellobike.atlas.business.portal.PortalActivity"
+        name="hello" />
+
+    <item
+        class="com.huawei.appmarket.MainActivity"
+        name="huawei_market" />
+
+    <item
+        class="com.icbc.activity.init.NewLoadingActivity"
+        name="___icbc" />
+
+    <item
+        class="com.taobao.fleamarket.home.activity.InitActivity"
+        name="idlefish" />
+
+    <item
+        class="cn.gov.tax.its.MainActivity"
+        name="income_tax_c__n" />
+
+    <item
+        class="com.ingka.ikea.app.splash.FirstEntryActivity"
+        name="___ikea" />
+    <item
+        class="com.ingka.ikea.app.SplashActivity"
+        name="___ikea" />
 
     <item
         class="com.jingdong.app.mall.main.MainActivity"
@@ -124,12 +566,247 @@
         name="meituan" />
 
     <item
+        class="com.android.messaging.ui.conversationlist.ConversationListActivity"
+        name="messages" />
+    <item
+        class="com.mms.ics.ext.ui.ConversationList"
+        name="messages" />
+    <item
+        class="com.android.mms.ui.ConversationList"
+        name="messages" />
+    <item
+        class="com.android.mms.MainUISelection"
+        name="messages" />
+    <item
+        class="com.android.mms.MultipleActivitiesMain"
+        name="messages" />
+    <item
+        class="com.android.mms.ui.ConversationComposer"
+        name="messages" />
+    <item
+        class="com.android.mms.ui.MainLayerTabSwitchActivity"
+        name="messages" />
+    <item
+        class="com.android.mms.ui.MmsTabActivity"
+        name="messages" />
+    <item
+        class="com.android.mms.ui.ModeActivity"
+        name="messages" />
+    <item
+        class="com.android.mms.ui.UiController"
+        name="messages" />
+    <item
+        class="com.android.mms.ui.ViewControllerActivity"
+        name="messages" />
+    <item
+        class="com.android.mms.ui.VissageActivity"
+        name="messages" />
+    <item
+        class="com.android.mms.ui.MessageTabActivity"
+        name="messages" />
+    <item
+        class="com.yulong.android.mms.ui.MmsMainListFormActivity"
+        name="messages" />
+    <item
+        class="com.android.mms.ui.BootActivity"
+        name="messages" />
+    <item
+        class="com.yulong.android.contacts.dial.DialActivity"
+        name="messages" />
+    <item
+        class="com.htc.sense.mms.ui.ConversationList"
+        name="messages" />
+    <item
+        class="com.google.android.apps.messaging.ui.ConversationListActivity"
+        name="messages" />
+    <item
+        class="com.android.mms.ui.ConversationComposer"
+        name="messages" />
+    <item
+        class="com.sonyericsson.conversations.ui.ConversationListActivity"
+        name="messages" />
+    <item
+        class="com.fancymaker.mms.ui.XuiMmsMainActivity"
+        name="messages" />
+
+    <item
         class="com.microsoft.rdc.ui.activities.HomeActivity"
         name="microsoft_remote_desktop" />
 
     <item
+        class="com.xiaomi.smarthome.SmartHomeMainActivity"
+        name="mi_home" />
+
+    <item
+        class="com.wotransfer.pandaremit.activity.StartGuideActivity"
+        name="panda_remit" />
+
+    <item
+        class="com.android.phone.DialtactsContactsEntryActivity"
+        name="phone" />
+    <item
+        class="com.android.phone.RecentCallsListActivity"
+        name="phone" />
+    <item
+        class="com.android.phone.firewall.PhoneFireWall"
+        name="phone" />
+    <item
+        class="com.android.phone.LaunchCallInterface"
+        name="phone" />
+    <item
+        class="com.android.phone.Settings"
+        name="phone" />
+    <item
+        class="com.android.phone.LaunchRecentCallsActivity"
+        name="phone" />
+    <item
+        class="com.android.phone.DialtactsCallLogActivity"
+        name="phone" />
+    <item
+        class="com.android.phone.DialerSClass"
+        name="phone" />
+    <item
+        class="com.android.phone.TwDialer"
+        name="phone" />
+    <item
+        class="com.google.android.dialer.extensions.GoogleDialtactsActivity"
+        name="phone" />
+    <item
+        class="com.motorola.blur.ViewIdentitiesFacetActivity"
+        name="phone" />
+    <item
+        class="com.android.dialer.TwelveKeyDialer"
+        name="phone" />
+    <item
+        class="com.android.dialer.allContactsActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts.dialer.DialerPhoneActivity"
+        name="phone" />
+    <item
+        class="com.android.dialer.DialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts.activities.DialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts.LaunchCallLogActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts.PhoneContactsActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts.PhoneDialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts.SmartDialerActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts.CallLogShortcut"
+        name="phone" />
+    <item
+        class="com.android.contacts.DialtactsDialerEntryActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts.CallLog"
+        name="phone" />
+    <item
+        class="com.android.contacts.DialerActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts.TwelveKeyDialer"
+        name="phone" />
+    <item
+        class="com.oneplus.contacts.activities.OPDialtactsActivity"
+        name="phone" />
+    <item
+        class="com.oneplus.contacts.activities.OPDialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts.DialtactsCallLogActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts.activities.CallLogActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts.CallLogActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts.CallDialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts.RecentCallsLauncherActivity"
+        name="phone" />
+    <item
+        class="com.oppo.contacts.OppoDialtactsActivity"
+        name="phone" />
+    <item
+        class="com.sec.android.app.contacts.DialerEntryActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts.DialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts.activities.TwelveKeyDialer"
+        name="phone" />
+    <item
+        class="com.android.contacts.activities.PCUDialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.dialer.DialtactsActivity"
+        name="phone" />
+    <item
+        class="com.google.android.dialer.extensions.GoogleDialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.dialer.calllog.CallLogActivity"
+        name="phone" />
+    <item
+        class="com.android.dialer.activities.DialtactsActivity"
+        name="phone" />
+    <item
+        class="com.yulong.android.contacts.dial.DialActivity"
+        name="phone" />
+    <item
+        class="com.android.newcontact.vl.activity.DialpadShutcut"
+        name="phone" />
+    <item
+        class="cn.nubia.contacts.DialerActivity"
+        name="phone" />
+    <item
+        class="com.lenovo.ideafriend.alias.DialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts.activities.DialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.dialer.DialtactsActivity"
+        name="phone" />
+    <item
+        class="com.sonyericsson.android.socialphonebook.DialerEntryActivity"
+        name="phone" />
+    <item
+        class="com.htc.contacts.DialerTabActivity"
+        name="phone" />
+    <item
+        class="com.android.dialer.DialtactsActivity"
+        name="phone" />
+
+    <item
+        class="com.google.android.apps.tips.TipsMain"
+        name="pixel_tips" />
+
+    <item
         class="jp.pxv.android.activity.RoutingActivity"
         name="pixiv" />
+
+    <item
+        class="com.yitong.mbank.psbc.android.activity.SplashActivity"
+        name="___psbc" />
+
+    <item
+        class="cn.sinobest.zf.MainActivity"
+        name="public_security_c__n" />
 
     <item
         class="com.tencent.mobileqq.activity.SplashActivity"
@@ -223,6 +900,18 @@
         name="sager__net" />
 
     <item
+        class="com.tencent.wework.launch.WwMainActivity"
+        name="___seu_campus" />
+
+    <item
+        class="com.sudytech.iportal.WelcomeActivity"
+        name="___seu_portal" />
+
+    <item
+        class="com.sf.activity.MainActivity"
+        name="___sf_express" />
+
+    <item
         class="com.android.stk.StkMain"
         name="___sim" />
     <item
@@ -254,9 +943,17 @@
     <item
         class="com.valvesoftware.android.steam.community.activity.MainActivity"
         name="steam" />
-	<item
-		class="com.valvesoftware.android.steam.community.MainActivity"
-		name="steam"/>
+    <item
+        class="com.valvesoftware.android.steam.community.MainActivity"
+        name="steam" />
+
+    <item
+        class="com.valvesoftware.android.steam.friendsui.MainActivity"
+        name="steam_chat" />
+
+    <item
+        class="com.steampy.app.activity.common.splash.SplashActivity"
+        name="steam___py" />
 
     <item
         class="com.taobao.tao.welcome.Welcome"
@@ -265,9 +962,9 @@
     <item
         class="org.telegram.ui.LaunchActivity"
         name="telegram" />
-	<item
-		class="org.telegram.messenger.DefaultIcon"
-		name="telegram"/>
+    <item
+        class="org.telegram.messenger.DefaultIcon"
+        name="telegram" />
 
     <item
         class="com.termux.app.TermuxActivity"
@@ -285,12 +982,27 @@
         name="twitter" />
 
     <item
+        class="com.umetrip.android.msky.app.module.startup.SplashActivity"
+        name="umetrip" />
+
+    <item
         class="com.unionpay.activity.UPActivityMain"
         name="union__pay" />
 
     <item
+        class="com.yek.android.uniqlo.activity.WelcomeActivity"
+        name="uniqlo" />
+
+    <item
         class="com.tencent.mm.ui.LauncherUI"
         name="we__chat" />
+
+    <item
+        class="com.tencent.wemeet.app.StartupActivity"
+        name="we__meet" />
+    <item
+        class="com.tencent.wemeet.app.StartupActivity"
+        name="we__meet" />
 
     <item
         class="com.sina.weibo.SplashActivity"
@@ -301,12 +1013,20 @@
     <item
         class="com.weico.international.activity.LogoActivity"
         name="weibo" />
-	<item
-		class="com.weico.international.appicon_white"
-		name="weibo"/>
+    <item
+        class="com.weico.international.appicon_white"
+        name="weibo" />
+
+    <item
+        class="com.xingin.xhs.index.v2.IndexActivityV2"
+        name="xiaohongshu" />
 
     <item
         class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity"
         name="you__tube" />
+
+    <item
+        class="com.uu898.uuhavequality.module.start.SplashActivity"
+        name="youpin" />
 
 </appmap>

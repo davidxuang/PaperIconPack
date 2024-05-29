@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- This is for Atom Launcher -->
 <themeInfo>
-    <packageName>dev.davidxuang.paper</packageName>
-    <versionName>0.1.0</versionName>
+    <packageName>dev.dvxg.paper</packageName>
+    <versionName>0.2.0</versionName>
     <versionCode>100</versionCode>
     <themeName>Paper</themeName>
     <!-- Default Component Color -->

@@ -4,6 +4,8 @@
 
 An adaptive icon pack powered by [Blueprint](https://github.com/jahirfiquitiva/Blueprint).
 
+![preview](./app/src/main/res/drawable-nodpi/preview_1.png)
+
 ## Credits
 
 * [Libertinus Serif](https://github.com/alerque/libertinus)
