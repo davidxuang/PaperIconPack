@@ -34,6 +34,10 @@
         drawable="___7ma" />
 
     <item
+        component="ComponentInfo{com.android.bankabc/com.alipay.mobile.quinox.LauncherActivity}"
+        drawable="___abc" />
+
+    <item
         component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}"
         drawable="acrobat" />
 
@@ -47,6 +51,10 @@
     <item
         component="ComponentInfo{com.rytong.airchina/com.rytong.airchina.unility.splash.activity.SplashActivity}"
         drawable="air_china" />
+
+    <item
+        component="ComponentInfo{com.neusoft.airmacau/com.neusoft.airmacau.avtivity.MainActivity}"
+        drawable="air_macau" />
 
     <item
         component="ComponentInfo{com.alibaba.wireless/com.alibaba.wireless.launch.LauncherActivity}"
@@ -99,6 +107,10 @@
     <item
         component="ComponentInfo{com.chinamworld.bocmbci/com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity}"
         drawable="bo__c" />
+
+    <item
+        component="ComponentInfo{com.bankcomm.Bankcomm/com.bankcomm.module.biz.home.MainActivity}"
+        drawable="bo__com" />
 
     <item
         component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.view.activity.WelcomeActivity}"
@@ -280,6 +292,33 @@
         drawable="camera" />
 
     <item
+        component="ComponentInfo{com.xs2theworld.cxmobile/com.cathaypacific.mobile.activities.SplashScreenActivity}"
+        drawable="cathay_pacific" />
+    <item
+        component="ComponentInfo{cn.xs2theworld.cxmobile/com.cathaypacific.mobile.activities.SplashScreenActivity}"
+        drawable="cathay_pacific" />
+
+    <item
+        component="ComponentInfo{com.chinamworld.main/com.ccb.start.MainActivity}"
+        drawable="___ccb" />
+
+    <item
+        component="ComponentInfo{com.rytong.ceair/com.rytong.ceair.main.SplashActivity}"
+        drawable="china_eastern" />
+
+    <item
+        component="ComponentInfo{com.csair.mbp/com.csair.mbp.launcher.WelcomeActivity}"
+        drawable="china_southern" />
+
+    <item
+        component="ComponentInfo{com.ct.client/com.ct.client.activity.SplashActivity}"
+        drawable="china_telecom" />
+
+    <item
+        component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.basic.ui.activity.WelcomeClient}"
+        drawable="china_unicom" />
+
+    <item
         component="ComponentInfo{com.cq.government/com.cq.government.ui.starter.SplashActivity}"
         drawable="chongqing_government" />
 
@@ -294,6 +333,23 @@
     <item
         component="ComponentInfo{cn.com.chsi.chsiapp/cn.com.chsi.chsiapp.GuideActivity}"
         drawable="___chsi" />
+
+    <item
+        component="ComponentInfo{com.cib.cibmb/com.newland.app.ui.firstpage.FirstPageActivity}"
+        drawable="___cib" />
+
+    <item
+        component="ComponentInfo{com.ecitic.bank.mobile/com.ecitic.bank.mobile.ui.SplashActivity}"
+        drawable="___citic" />
+    <item
+        component="ComponentInfo{com.zxscnew/com.zztzt.android.simple.activity.tztRootLayoutActivity}"
+        drawable="___citic" />
+    <item
+        component="ComponentInfo{com.citicsf.finance/com.citicsf.finance.activity.NewMainActivity_}"
+        drawable="___citic" />
+    <item
+        component="ComponentInfo{com.zxjtqht.thsqht/com.hexin.plat.android.AndroidLogoActivity}"
+        drawable="___citic" />
 
     <item
         component="ComponentInfo{cmb.pb/cmb.pb.app.mainframe.container.PBMainActivity}"
@@ -582,8 +638,16 @@
         drawable="jingdong_finance" />
 
     <item
+        component="ComponentInfo{org.zywx.wbpalmstar.widgetone.uex11296876/org.zywx.wbpalmstar.widgetone.uex11296876.module.main.view.SplashActivity}"
+        drawable="juneyao_air" />
+
+    <item
         component="ComponentInfo{org.xbmc.kodi/org.xbmc.kodi.Splash}"
         drawable="kodi" />
+
+    <item
+        component="ComponentInfo{com.leavjenn.longshot/com.leavjenn.longshot.MainActivity}"
+        drawable="long__shot" />
 
     <item
         component="ComponentInfo{com.sankuai.meituan/com.meituan.android.pt.homepage.activity.MainActivity}"
@@ -654,12 +718,16 @@
         drawable="messages" />
 
     <item
+        component="ComponentInfo{com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity}"
+        drawable="mi_home" />
+
+    <item
         component="ComponentInfo{com.microsoft.rdc.androidx/com.microsoft.rdc.ui.activities.HomeActivity}"
         drawable="microsoft_remote_desktop" />
 
     <item
-        component="ComponentInfo{com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity}"
-        drawable="mi_home" />
+        component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}"
+        drawable="mi__xplorer" />
 
     <item
         component="ComponentInfo{com.wotransfer.pandaremit/com.wotransfer.pandaremit.activity.StartGuideActivity}"
@@ -936,6 +1004,18 @@
         drawable="___sf_express" />
 
     <item
+        component="ComponentInfo{com.huicent/com.huicent.splash.ui.SplashActivity}"
+        drawable="shandong_airlines" />
+
+    <item
+        component="ComponentInfo{com.air.sz/com.air.sz.ui.activity.WelcomeActivity}"
+        drawable="shenzhen_airlines" />
+
+    <item
+        component="ComponentInfo{com.bw30.zsch/com.bw.zsch.alisDef}"
+        drawable="sichuan_airlines" />
+
+    <item
         component="ComponentInfo{com.android.stk/com.android.stk.StkMain}"
         drawable="___sim" />
     <item
@@ -963,6 +1043,18 @@
     <item
         component="ComponentInfo{com.smzdm.client.android/com.smzdm.client.android.app.WelComeActivity}"
         drawable="___smzdm" />
+
+    <item
+        component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}"
+        drawable="snapseed" />
+
+    <item
+        component="ComponentInfo{cn.com.spdb.mobilebank.per/cn.com.spdb.mobilebank.per.activity.SplashActivity}"
+        drawable="___spdb" />
+
+    <item
+        component="ComponentInfo{com.china3s.android/com.china3s.android.home.view.Main}"
+        drawable="spring_airlines" />
 
     <item
         component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}"
@@ -1026,13 +1118,6 @@
         drawable="we__chat" />
 
     <item
-        component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.app.StartupActivity}"
-        drawable="we__meet" />
-    <item
-        component="ComponentInfo{com.tencent.wemeet.app/com.tencent.wemeet.app.StartupActivity}"
-        drawable="we__meet" />
-
-    <item
         component="ComponentInfo{com.sina.weibo/com.sina.weibo.SplashActivity}"
         drawable="weibo" />
     <item
@@ -1044,6 +1129,17 @@
     <item
         component="ComponentInfo{com.weico.international/com.weico.international.appicon_white}"
         drawable="weibo" />
+
+    <item
+        component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.app.StartupActivity}"
+        drawable="we__meet" />
+    <item
+        component="ComponentInfo{com.tencent.wemeet.app/com.tencent.wemeet.app.StartupActivity}"
+        drawable="we__meet" />
+
+    <item
+        component="ComponentInfo{com.ecommerce.xmnair/com.ecommerce.xmnair.activity.sys.SystemInit}"
+        drawable="xiamen_air" />
 
     <item
         component="ComponentInfo{com.xingin.xhs/com.xingin.xhs.index.v2.IndexActivityV2}"

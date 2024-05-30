@@ -6,6 +6,10 @@
         name="___7ma" />
 
     <item
+        class="com.alipay.mobile.quinox.LauncherActivity"
+        name="___abc" />
+
+    <item
         class="com.adobe.reader.AdobeReader"
         name="acrobat" />
 
@@ -19,6 +23,10 @@
     <item
         class="com.rytong.airchina.unility.splash.activity.SplashActivity"
         name="air_china" />
+
+    <item
+        class="com.neusoft.airmacau.avtivity.MainActivity"
+        name="air_macau" />
 
     <item
         class="com.alibaba.wireless.launch.LauncherActivity"
@@ -68,6 +76,10 @@
     <item
         class="com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity"
         name="bo__c" />
+
+    <item
+        class="com.bankcomm.module.biz.home.MainActivity"
+        name="bo__com" />
 
     <item
         class="com.cainiao.wireless.homepage.view.activity.WelcomeActivity"
@@ -219,6 +231,30 @@
         name="camera" />
 
     <item
+        class="com.cathaypacific.mobile.activities.SplashScreenActivity"
+        name="cathay_pacific" />
+
+    <item
+        class="com.ccb.start.MainActivity"
+        name="___ccb" />
+
+    <item
+        class="com.rytong.ceair.main.SplashActivity"
+        name="china_eastern" />
+
+    <item
+        class="com.csair.mbp.launcher.WelcomeActivity"
+        name="china_southern" />
+
+    <item
+        class="com.ct.client.activity.SplashActivity"
+        name="china_telecom" />
+
+    <item
+        class="com.sinovatech.unicom.basic.ui.activity.WelcomeClient"
+        name="china_unicom" />
+
+    <item
         class="com.cq.government.ui.starter.SplashActivity"
         name="chongqing_government" />
 
@@ -233,6 +269,23 @@
     <item
         class="cn.com.chsi.chsiapp.GuideActivity"
         name="___chsi" />
+
+    <item
+        class="com.newland.app.ui.firstpage.FirstPageActivity"
+        name="___cib" />
+
+    <item
+        class="com.ecitic.bank.mobile.ui.SplashActivity"
+        name="___citic" />
+    <item
+        class="com.zztzt.android.simple.activity.tztRootLayoutActivity"
+        name="___citic" />
+    <item
+        class="com.citicsf.finance.activity.NewMainActivity_"
+        name="___citic" />
+    <item
+        class="com.hexin.plat.android.AndroidLogoActivity"
+        name="___citic" />
 
     <item
         class="cmb.pb.app.mainframe.container.PBMainActivity"
@@ -293,9 +346,6 @@
         class="com.coolapk.market.view.main.MainActivity"
         name="coolapk" />
 
-    <item
-        class="com.alipay.mobile.quinox.LauncherActivity"
-        name="___cr_12306" />
     <item
         class="com.MobileTicket.ui.activity.WelcomeGuideActivity"
         name="___cr_12306" />
@@ -497,8 +547,16 @@
         name="jingdong_finance" />
 
     <item
+        class="org.zywx.wbpalmstar.widgetone.uex11296876.module.main.view.SplashActivity"
+        name="juneyao_air" />
+
+    <item
         class="org.xbmc.kodi.Splash"
         name="kodi" />
+
+    <item
+        class="com.leavjenn.longshot.MainActivity"
+        name="long__shot" />
 
     <item
         class="com.meituan.android.pt.homepage.activity.MainActivity"
@@ -563,12 +621,16 @@
         name="messages" />
 
     <item
+        class="com.xiaomi.smarthome.SmartHomeMainActivity"
+        name="mi_home" />
+
+    <item
         class="com.microsoft.rdc.ui.activities.HomeActivity"
         name="microsoft_remote_desktop" />
 
     <item
-        class="com.xiaomi.smarthome.SmartHomeMainActivity"
-        name="mi_home" />
+        class="com.mixplorer.activities.BrowseActivity"
+        name="mi__xplorer" />
 
     <item
         class="com.wotransfer.pandaremit.activity.StartGuideActivity"
@@ -824,6 +886,18 @@
         name="___sf_express" />
 
     <item
+        class="com.huicent.splash.ui.SplashActivity"
+        name="shandong_airlines" />
+
+    <item
+        class="com.air.sz.ui.activity.WelcomeActivity"
+        name="shenzhen_airlines" />
+
+    <item
+        class="com.bw.zsch.alisDef"
+        name="sichuan_airlines" />
+
+    <item
         class="com.android.stk.StkMain"
         name="___sim" />
     <item
@@ -851,6 +925,18 @@
     <item
         class="com.smzdm.client.android.app.WelComeActivity"
         name="___smzdm" />
+
+    <item
+        class="com.google.android.apps.snapseed.WelcomeScreenActivity"
+        name="snapseed" />
+
+    <item
+        class="cn.com.spdb.mobilebank.per.activity.SplashActivity"
+        name="___spdb" />
+
+    <item
+        class="com.china3s.android.home.view.Main"
+        name="spring_airlines" />
 
     <item
         class="com.valvesoftware.android.steam.community.activity.MainActivity"
@@ -911,10 +997,6 @@
         name="we__chat" />
 
     <item
-        class="com.tencent.wemeet.app.StartupActivity"
-        name="we__meet" />
-
-    <item
         class="com.sina.weibo.SplashActivity"
         name="weibo" />
     <item
@@ -926,6 +1008,14 @@
     <item
         class="com.weico.international.appicon_white"
         name="weibo" />
+
+    <item
+        class="com.tencent.wemeet.app.StartupActivity"
+        name="we__meet" />
+
+    <item
+        class="com.ecommerce.xmnair.activity.sys.SystemInit"
+        name="xiamen_air" />
 
     <item
         class="com.xingin.xhs.index.v2.IndexActivityV2"

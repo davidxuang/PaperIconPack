@@ -13,6 +13,10 @@
         image="___7ma" />
 
     <AppIcon
+        name="com.android.bankabc/com.alipay.mobile.quinox.LauncherActivity"
+        image="___abc" />
+
+    <AppIcon
         name="com.adobe.reader/com.adobe.reader.AdobeReader"
         image="acrobat" />
 
@@ -26,6 +30,10 @@
     <AppIcon
         name="com.rytong.airchina/com.rytong.airchina.unility.splash.activity.SplashActivity"
         image="air_china" />
+
+    <AppIcon
+        name="com.neusoft.airmacau/com.neusoft.airmacau.avtivity.MainActivity"
+        image="air_macau" />
 
     <AppIcon
         name="com.alibaba.wireless/com.alibaba.wireless.launch.LauncherActivity"
@@ -78,6 +86,10 @@
     <AppIcon
         name="com.chinamworld.bocmbci/com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity"
         image="bo__c" />
+
+    <AppIcon
+        name="com.bankcomm.Bankcomm/com.bankcomm.module.biz.home.MainActivity"
+        image="bo__com" />
 
     <AppIcon
         name="com.cainiao.wireless/com.cainiao.wireless.homepage.view.activity.WelcomeActivity"
@@ -259,6 +271,33 @@
         image="camera" />
 
     <AppIcon
+        name="com.xs2theworld.cxmobile/com.cathaypacific.mobile.activities.SplashScreenActivity"
+        image="cathay_pacific" />
+    <AppIcon
+        name="cn.xs2theworld.cxmobile/com.cathaypacific.mobile.activities.SplashScreenActivity"
+        image="cathay_pacific" />
+
+    <AppIcon
+        name="com.chinamworld.main/com.ccb.start.MainActivity"
+        image="___ccb" />
+
+    <AppIcon
+        name="com.rytong.ceair/com.rytong.ceair.main.SplashActivity"
+        image="china_eastern" />
+
+    <AppIcon
+        name="com.csair.mbp/com.csair.mbp.launcher.WelcomeActivity"
+        image="china_southern" />
+
+    <AppIcon
+        name="com.ct.client/com.ct.client.activity.SplashActivity"
+        image="china_telecom" />
+
+    <AppIcon
+        name="com.sinovatech.unicom.ui/com.sinovatech.unicom.basic.ui.activity.WelcomeClient"
+        image="china_unicom" />
+
+    <AppIcon
         name="com.cq.government/com.cq.government.ui.starter.SplashActivity"
         image="chongqing_government" />
 
@@ -273,6 +312,23 @@
     <AppIcon
         name="cn.com.chsi.chsiapp/cn.com.chsi.chsiapp.GuideActivity"
         image="___chsi" />
+
+    <AppIcon
+        name="com.cib.cibmb/com.newland.app.ui.firstpage.FirstPageActivity"
+        image="___cib" />
+
+    <AppIcon
+        name="com.ecitic.bank.mobile/com.ecitic.bank.mobile.ui.SplashActivity"
+        image="___citic" />
+    <AppIcon
+        name="com.zxscnew/com.zztzt.android.simple.activity.tztRootLayoutActivity"
+        image="___citic" />
+    <AppIcon
+        name="com.citicsf.finance/com.citicsf.finance.activity.NewMainActivity_"
+        image="___citic" />
+    <AppIcon
+        name="com.zxjtqht.thsqht/com.hexin.plat.android.AndroidLogoActivity"
+        image="___citic" />
 
     <AppIcon
         name="cmb.pb/cmb.pb.app.mainframe.container.PBMainActivity"
@@ -561,8 +617,16 @@
         image="jingdong_finance" />
 
     <AppIcon
+        name="org.zywx.wbpalmstar.widgetone.uex11296876/org.zywx.wbpalmstar.widgetone.uex11296876.module.main.view.SplashActivity"
+        image="juneyao_air" />
+
+    <AppIcon
         name="org.xbmc.kodi/org.xbmc.kodi.Splash"
         image="kodi" />
+
+    <AppIcon
+        name="com.leavjenn.longshot/com.leavjenn.longshot.MainActivity"
+        image="long__shot" />
 
     <AppIcon
         name="com.sankuai.meituan/com.meituan.android.pt.homepage.activity.MainActivity"
@@ -633,12 +697,16 @@
         image="messages" />
 
     <AppIcon
+        name="com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity"
+        image="mi_home" />
+
+    <AppIcon
         name="com.microsoft.rdc.androidx/com.microsoft.rdc.ui.activities.HomeActivity"
         image="microsoft_remote_desktop" />
 
     <AppIcon
-        name="com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity"
-        image="mi_home" />
+        name="com.mixplorer/com.mixplorer.activities.BrowseActivity"
+        image="mi__xplorer" />
 
     <AppIcon
         name="com.wotransfer.pandaremit/com.wotransfer.pandaremit.activity.StartGuideActivity"
@@ -915,6 +983,18 @@
         image="___sf_express" />
 
     <AppIcon
+        name="com.huicent/com.huicent.splash.ui.SplashActivity"
+        image="shandong_airlines" />
+
+    <AppIcon
+        name="com.air.sz/com.air.sz.ui.activity.WelcomeActivity"
+        image="shenzhen_airlines" />
+
+    <AppIcon
+        name="com.bw30.zsch/com.bw.zsch.alisDef"
+        image="sichuan_airlines" />
+
+    <AppIcon
         name="com.android.stk/com.android.stk.StkMain"
         image="___sim" />
     <AppIcon
@@ -942,6 +1022,18 @@
     <AppIcon
         name="com.smzdm.client.android/com.smzdm.client.android.app.WelComeActivity"
         image="___smzdm" />
+
+    <AppIcon
+        name="com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity"
+        image="snapseed" />
+
+    <AppIcon
+        name="cn.com.spdb.mobilebank.per/cn.com.spdb.mobilebank.per.activity.SplashActivity"
+        image="___spdb" />
+
+    <AppIcon
+        name="com.china3s.android/com.china3s.android.home.view.Main"
+        image="spring_airlines" />
 
     <AppIcon
         name="com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity"
@@ -1005,13 +1097,6 @@
         image="we__chat" />
 
     <AppIcon
-        name="com.tencent.voov/com.tencent.wemeet.app.StartupActivity"
-        image="we__meet" />
-    <AppIcon
-        name="com.tencent.wemeet.app/com.tencent.wemeet.app.StartupActivity"
-        image="we__meet" />
-
-    <AppIcon
         name="com.sina.weibo/com.sina.weibo.SplashActivity"
         image="weibo" />
     <AppIcon
@@ -1023,6 +1108,17 @@
     <AppIcon
         name="com.weico.international/com.weico.international.appicon_white"
         image="weibo" />
+
+    <AppIcon
+        name="com.tencent.voov/com.tencent.wemeet.app.StartupActivity"
+        image="we__meet" />
+    <AppIcon
+        name="com.tencent.wemeet.app/com.tencent.wemeet.app.StartupActivity"
+        image="we__meet" />
+
+    <AppIcon
+        name="com.ecommerce.xmnair/com.ecommerce.xmnair.activity.sys.SystemInit"
+        image="xiamen_air" />
 
     <AppIcon
         name="com.xingin.xhs/com.xingin.xhs.index.v2.IndexActivityV2"

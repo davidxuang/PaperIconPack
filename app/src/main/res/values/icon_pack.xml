@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><!--suppress CheckTagEmptyBody -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
 
-    <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
         <item>allnow</item>
         <item>amap</item>
@@ -22,76 +21,47 @@
         <item>union__pay</item>
     </string-array>
 
-    <!-- These sections below are for your "Previews" section -->
-    <!-- These names should match YOUR actual icon names
-    	 the names used below are just for sampling purposes -->
-
-    <!-- Make sure the filters names are the same as the other arrays -->
     <string-array name="icon_filters">
         <item>added</item>
+        <item>updated</item>
         <item>all</item>
     </string-array>
 
     <string-array name="added">
-        <item>___7ma</item>
-        <item>air_china</item>
-        <item>alibaba</item>
-        <item>amap</item>
-        <item>___bga</item>
-        <item>blued</item>
-        <item>cainiao</item>
-        <item>caixin_news</item>
-        <item>calculator</item>
-        <item>calendar</item>
-        <item>camera</item>
-        <item>chongqing_government</item>
-        <item>chongqing_pay__easy</item>
-        <item>chongqing_wallet</item>
-        <item>___chsi</item>
-        <item>___cmcc</item>
-        <item>contacts</item>
-        <item>___crt</item>
-        <item>___dcep</item>
-        <item>dianping</item>
-        <item>eleme</item>
-        <item>files</item>
-        <item>google</item>
-        <item>google_drive</item>
-        <item>google_earth</item>
-        <item>google_maps</item>
-        <item>google_play_store</item>
-        <item>hello</item>
-        <item>huawei_market</item>
-        <item>___icbc</item>
-        <item>idlefish</item>
-        <item>income_tax_c__n</item>
-        <item>___ikea</item>
-        <item>messages</item>
-        <item>mi_home</item>
-        <item>panda_remit</item>
-        <item>phone</item>
-        <item>pixel_tips</item>
-        <item>___psbc</item>
-        <item>public_security_c__n</item>
-        <item>___seu_campus</item>
-        <item>___seu_portal</item>
-        <item>___sf_express</item>
-        <item>steam_chat</item>
-        <item>steam___py</item>
-        <item>traffic_12123</item>
-        <item>umetrip</item>
-        <item>uniqlo</item>
-        <item>we__meet</item>
-        <item>xiaohongshu</item>
-        <item>youpin</item>
+        <item>___abc</item>
+        <item>air_macau</item>
+        <item>bo__com</item>
+        <item>cathay_pacific</item>
+        <item>___ccb</item>
+        <item>china_eastern</item>
+        <item>china_southern</item>
+        <item>china_telecom</item>
+        <item>china_unicom</item>
+        <item>___cib</item>
+        <item>___citic</item>
+        <item>juneyao_air</item>
+        <item>long__shot</item>
+        <item>mi__xplorer</item>
+        <item>shandong_airlines</item>
+        <item>shenzhen_airlines</item>
+        <item>sichuan_airlines</item>
+        <item>snapseed</item>
+        <item>___spdb</item>
+        <item>spring_airlines</item>
+        <item>xiamen_air</item>
+    </string-array>
+
+    <string-array name="updated">
+        <item>alipay</item>
     </string-array>
 
     <string-array name="all">
-        <item>_12123</item>
         <item>___7ma</item>
+        <item>___abc</item>
         <item>acrobat</item>
         <item>___adm</item>
         <item>air_china</item>
+        <item>air_macau</item>
         <item>alibaba</item>
         <item>alipay</item>
         <item>allnow</item>
@@ -102,20 +72,29 @@
         <item>blued</item>
         <item>bmap</item>
         <item>bo__c</item>
+        <item>bo__com</item>
         <item>cainiao</item>
         <item>caixin_news</item>
         <item>calculator</item>
         <item>calendar</item>
         <item>camera</item>
+        <item>cathay_pacific</item>
+        <item>___ccb</item>
+        <item>china_eastern</item>
+        <item>china_southern</item>
+        <item>china_telecom</item>
+        <item>china_unicom</item>
         <item>chongqing_government</item>
         <item>chongqing_pay__easy</item>
+        <item>chongqing_wallet</item>
         <item>___chsi</item>
+        <item>___cib</item>
+        <item>___citic</item>
         <item>___cmb</item>
         <item>___cmb_credit</item>
         <item>___cmcc</item>
         <item>contacts</item>
         <item>coolapk</item>
-        <item>___cq_wallet</item>
         <item>___cr_12306</item>
         <item>___crt</item>
         <item>dangdang</item>
@@ -145,11 +124,14 @@
         <item>___ikea</item>
         <item>jingdong</item>
         <item>jingdong_finance</item>
+        <item>juneyao_air</item>
         <item>kodi</item>
+        <item>long__shot</item>
         <item>meituan</item>
         <item>messages</item>
-        <item>microsoft_remote_desktop</item>
         <item>mi_home</item>
+        <item>microsoft_remote_desktop</item>
+        <item>mi__xplorer</item>
         <item>panda_remit</item>
         <item>phone</item>
         <item>pixel_tips</item>
@@ -163,8 +145,14 @@
         <item>___seu_campus</item>
         <item>___seu_portal</item>
         <item>___sf_express</item>
+        <item>shandong_airlines</item>
+        <item>shenzhen_airlines</item>
+        <item>sichuan_airlines</item>
         <item>___sim</item>
         <item>___smzdm</item>
+        <item>snapseed</item>
+        <item>___spdb</item>
+        <item>spring_airlines</item>
         <item>steam</item>
         <item>steam_chat</item>
         <item>steam___py</item>
@@ -172,15 +160,18 @@
         <item>telegram</item>
         <item>terminal</item>
         <item>___tim</item>
+        <item>traffic_12123</item>
         <item>twitter</item>
         <item>umetrip</item>
         <item>union__pay</item>
         <item>uniqlo</item>
         <item>we__chat</item>
-        <item>we__meet</item>
         <item>weibo</item>
+        <item>we__meet</item>
+        <item>xiamen_air</item>
         <item>xiaohongshu</item>
         <item>you__tube</item>
         <item>youpin</item>
     </string-array>
+
 </resources>
