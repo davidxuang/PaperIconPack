@@ -2,10 +2,6 @@
 <appmap>
 
     <item
-        class="com.tmri.app.ui.activity.main.TmriNewActivity"
-        name="_12123" />
-
-    <item
         class="cn.qimate.bike.full.SplashActivity"
         name="___7ma" />
 
@@ -56,9 +52,6 @@
     <item
         class="com.manjuu.azurlane.MainActivity"
         name="bilibili" />
-    <item
-        class="tv.danmaku.bili.ui.splash.SplashActivity"
-        name="bilibili" />
 
     <item
         class="com.blizzard.messenger.ui.splash.SplashActivity"
@@ -92,9 +85,6 @@
         name="calculator" />
     <item
         class="com.android.calculator2.Calculator-Dark"
-        name="calculator" />
-    <item
-        class="com.android.calculator2.Calculator"
         name="calculator" />
     <item
         class="com.android2.calculator3.Calculator"
@@ -131,9 +121,6 @@
         class="com.android.calendar.AllInOneActivity"
         name="calendar" />
     <item
-        class="com.android.calendar.AllInOneActivity"
-        name="calendar" />
-    <item
         class="am.sunrise.android.calendar.ui.HomeActivity"
         name="calendar" />
     <item
@@ -141,9 +128,6 @@
         name="calendar" />
     <item
         class="com.android.calendar.homepage.AllInOneActivity"
-        name="calendar" />
-    <item
-        class="com.android.calendar.AllInOneActivity"
         name="calendar" />
     <item
         class="com.android.calendar.LaunchActivity"
@@ -156,9 +140,6 @@
         name="calendar" />
     <item
         class="com.android.calendar.MonthActivity"
-        name="calendar" />
-    <item
-        class="com.android.calendar.LaunchActivity"
         name="calendar" />
     <item
         class="com.android.calendar.AgendaActivity"
@@ -194,9 +175,6 @@
         class="com.bbk.calendar.MainActivity"
         name="calendar" />
     <item
-        class="com.android.calendar.AllInOneActivity"
-        name="calendar" />
-    <item
         class="com.zui.calendar.MainActivity"
         name="calendar" />
     <item
@@ -216,12 +194,6 @@
         class="com.android.camera.Camera"
         name="camera" />
     <item
-        class="com.android.camera.CameraLauncher"
-        name="camera" />
-    <item
-        class="com.android.camera.CameraLauncher"
-        name="camera" />
-    <item
         class="com.htc.camera.CameraEntry"
         name="camera" />
     <item
@@ -237,12 +209,6 @@
         class="com.sonyericsson.android.camera.CameraActivity"
         name="camera" />
     <item
-        class="com.android.camera.CameraLauncher"
-        name="camera" />
-    <item
-        class="com.android.camera.CameraLauncher"
-        name="camera" />
-    <item
         class="com.sec.android.app.camera.Camera"
         name="camera" />
     <item
@@ -250,9 +216,6 @@
         name="camera" />
     <item
         class="com.huawei.camera"
-        name="camera" />
-    <item
-        class="com.android.camera.CameraLauncher"
         name="camera" />
 
     <item
@@ -262,6 +225,10 @@
     <item
         class="cn.com.whty.cqt.ui.SplashActivity"
         name="chongqing_pay__easy" />
+
+    <item
+        class="com.cecurs.home.newhome.ui.main.NewHomeActivity"
+        name="chongqing_wallet" />
 
     <item
         class="cn.com.chsi.chsiapp.GuideActivity"
@@ -279,9 +246,6 @@
         class="com.mc10086.cmcc.base.StartPageActivity"
         name="___cmcc" />
 
-    <item
-        class="com.android.contacts.activities.PeopleActivity"
-        name="contacts" />
     <item
         class="com.android.contacts.activities.PeopleActivity"
         name="contacts" />
@@ -316,22 +280,13 @@
         class="com.chinamobile.contacts.im.LoadingPage"
         name="contacts" />
     <item
-        class="com.android.contacts.activities.PeopleActivity"
-        name="contacts" />
-    <item
         class="com.android.newcontact.vl.activity.XLaunchActivity"
         name="contacts" />
     <item
         class="com.htc.contacts.BrowseLayerCarouselActivity"
         name="contacts" />
     <item
-        class="com.android.contacts.activities.PeopleActivity"
-        name="contacts" />
-    <item
         class="com.sonyericsson.android.socialphonebook.LaunchActivity"
-        name="contacts" />
-    <item
-        class="com.android.contacts.activities.PeopleActivity"
         name="contacts" />
 
     <item
@@ -339,14 +294,7 @@
         name="coolapk" />
 
     <item
-        class="com.cecurs.home.newhome.ui.main.NewHomeActivity"
-        name="___cq_wallet" />
-
-    <item
         class="com.alipay.mobile.quinox.LauncherActivity"
-        name="___cr_12306" />
-    <item
-        class="com.MobileTicket.ui.activity.WelcomeGuideActivity"
         name="___cr_12306" />
     <item
         class="com.MobileTicket.ui.activity.WelcomeGuideActivity"
@@ -360,9 +308,6 @@
         class="com.dangdang.buy2.StartupActivity"
         name="dangdang" />
 
-    <item
-        class="com.alipay.mobile.quinox.LauncherActivity"
-        name="___dcep" />
 
     <item
         class="com.screenovate.bluephone.MainActivity"
@@ -455,9 +400,6 @@
         class="com.mobisystems.files.FileBrowser"
         name="files" />
     <item
-        class="com.mobisystems.files.FileBrowser"
-        name="files" />
-    <item
         class="com.oneplus.filemanager.HomePageActivity"
         name="files" />
     <item
@@ -474,9 +416,6 @@
         name="files" />
     <item
         class="com.zui.filemanager.MainActivity"
-        name="files" />
-    <item
-        class="com.amaze.filemanager.activities.MainActivity"
         name="files" />
     <item
         class="zte.com.cn.filer.FilerActivity"
@@ -572,9 +511,6 @@
         class="com.mms.ics.ext.ui.ConversationList"
         name="messages" />
     <item
-        class="com.android.mms.ui.ConversationList"
-        name="messages" />
-    <item
         class="com.android.mms.MainUISelection"
         name="messages" />
     <item
@@ -618,9 +554,6 @@
         name="messages" />
     <item
         class="com.google.android.apps.messaging.ui.ConversationListActivity"
-        name="messages" />
-    <item
-        class="com.android.mms.ui.ConversationComposer"
         name="messages" />
     <item
         class="com.sonyericsson.conversations.ui.ConversationListActivity"
@@ -720,9 +653,6 @@
         class="com.oneplus.contacts.activities.OPDialtactsActivity"
         name="phone" />
     <item
-        class="com.oneplus.contacts.activities.OPDialtactsActivity"
-        name="phone" />
-    <item
         class="com.android.contacts.DialtactsCallLogActivity"
         name="phone" />
     <item
@@ -753,19 +683,10 @@
         class="com.android.contacts.activities.PCUDialtactsActivity"
         name="phone" />
     <item
-        class="com.android.dialer.DialtactsActivity"
-        name="phone" />
-    <item
-        class="com.google.android.dialer.extensions.GoogleDialtactsActivity"
-        name="phone" />
-    <item
         class="com.android.dialer.calllog.CallLogActivity"
         name="phone" />
     <item
         class="com.android.dialer.activities.DialtactsActivity"
-        name="phone" />
-    <item
-        class="com.yulong.android.contacts.dial.DialActivity"
         name="phone" />
     <item
         class="com.android.newcontact.vl.activity.DialpadShutcut"
@@ -777,19 +698,10 @@
         class="com.lenovo.ideafriend.alias.DialtactsActivity"
         name="phone" />
     <item
-        class="com.android.contacts.activities.DialtactsActivity"
-        name="phone" />
-    <item
-        class="com.android.dialer.DialtactsActivity"
-        name="phone" />
-    <item
         class="com.sonyericsson.android.socialphonebook.DialerEntryActivity"
         name="phone" />
     <item
         class="com.htc.contacts.DialerTabActivity"
-        name="phone" />
-    <item
-        class="com.android.dialer.DialtactsActivity"
         name="phone" />
 
     <item
@@ -973,9 +885,10 @@
         class="jackpal.androidterm.Term"
         name="terminal" />
 
+
     <item
-        class="com.tencent.mobileqq.activity.SplashActivity"
-        name="___tim" />
+        class="com.tmri.app.ui.activity.main.TmriNewActivity"
+        name="traffic_12123" />
 
     <item
         class="com.twitter.android.StartActivity"
@@ -997,9 +910,6 @@
         class="com.tencent.mm.ui.LauncherUI"
         name="we__chat" />
 
-    <item
-        class="com.tencent.wemeet.app.StartupActivity"
-        name="we__meet" />
     <item
         class="com.tencent.wemeet.app.StartupActivity"
         name="we__meet" />

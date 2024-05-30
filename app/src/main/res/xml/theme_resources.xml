@@ -9,10 +9,6 @@
     <DockMenuAppIcon selector="drawer" />
 
     <AppIcon
-        name="com.tmri.app.main/com.tmri.app.ui.activity.main.TmriNewActivity"
-        image="_12123" />
-
-    <AppIcon
         name="cn.qimate.bike/cn.qimate.bike.full.SplashActivity"
         image="___7ma" />
 
@@ -271,6 +267,10 @@
         image="chongqing_pay__easy" />
 
     <AppIcon
+        name="com.cmf.cqwallet/com.cecurs.home.newhome.ui.main.NewHomeActivity"
+        image="chongqing_wallet" />
+
+    <AppIcon
         name="cn.com.chsi.chsiapp/cn.com.chsi.chsiapp.GuideActivity"
         image="___chsi" />
 
@@ -344,10 +344,6 @@
     <AppIcon
         name="com.coolapk.market/com.coolapk.market.view.main.MainActivity"
         image="coolapk" />
-
-    <AppIcon
-        name="com.cmf.cqwallet/com.cecurs.home.newhome.ui.main.NewHomeActivity"
-        image="___cq_wallet" />
 
     <AppIcon
         name="com.MobileTicket/com.alipay.mobile.quinox.LauncherActivity"
@@ -983,6 +979,10 @@
     <AppIcon
         name="com.tencent.tim/com.tencent.mobileqq.activity.SplashActivity"
         image="___tim" />
+
+    <AppIcon
+        name="com.tmri.app.main/com.tmri.app.ui.activity.main.TmriNewActivity"
+        image="traffic_12123" />
 
     <AppIcon
         name="com.twitter.android/com.twitter.android.StartActivity"

@@ -4,7 +4,6 @@
     <version>1</version>
 
     <category title="Added" />
-    <item drawable="_12123" />
     <item drawable="___7ma" />
     <item drawable="air_china" />
     <item drawable="alibaba" />
@@ -18,10 +17,10 @@
     <item drawable="camera" />
     <item drawable="chongqing_government" />
     <item drawable="chongqing_pay__easy" />
+    <item drawable="chongqing_wallet" />
     <item drawable="___chsi" />
     <item drawable="___cmcc" />
     <item drawable="contacts" />
-    <item drawable="___cq_wallet" />
     <item drawable="___crt" />
     <item drawable="___dcep" />
     <item drawable="dianping" />
@@ -50,6 +49,7 @@
     <item drawable="___sf_express" />
     <item drawable="steam_chat" />
     <item drawable="steam___py" />
+    <item drawable="traffic_12123" />
     <item drawable="umetrip" />
     <item drawable="uniqlo" />
     <item drawable="we__meet" />
@@ -57,7 +57,6 @@
     <item drawable="youpin" />
 
     <category title="All" />
-    <item drawable="_12123" />
     <item drawable="___7ma" />
     <item drawable="acrobat" />
     <item drawable="___adm" />
@@ -79,13 +78,13 @@
     <item drawable="camera" />
     <item drawable="chongqing_government" />
     <item drawable="chongqing_pay__easy" />
+    <item drawable="chongqing_wallet" />
     <item drawable="___chsi" />
     <item drawable="___cmb" />
     <item drawable="___cmb_credit" />
     <item drawable="___cmcc" />
     <item drawable="contacts" />
     <item drawable="coolapk" />
-    <item drawable="___cq_wallet" />
     <item drawable="___cr_12306" />
     <item drawable="___crt" />
     <item drawable="dangdang" />
@@ -142,6 +141,7 @@
     <item drawable="telegram" />
     <item drawable="terminal" />
     <item drawable="___tim" />
+    <item drawable="traffic_12123" />
     <item drawable="twitter" />
     <item drawable="umetrip" />
     <item drawable="union__pay" />

@@ -9,7 +9,7 @@
         android:fillColor="@color/blue_500"
         android:pathData="M0,0H108V108H0Z" />
     <path
-        android:strokeColor="@color/blue_300"
+        android:strokeColor="@color/blue_200"
         android:strokeWidth="2"
         android:pathData="M55.387 30.42c5.687 3.791 11.838 6.158 18.466 7.105c1.232 0.176 2.147 1.231 2.147 2.475l0 13.5c0 12.078 -7.093 20.945 -21.103 26.333c-0.577 0.222 -1.217 0.222 -1.794 0c-14.01 -5.388 -21.103 -14.255 -21.103 -26.333l-0 -13.5c-0 -1.244 0.915 -2.299 2.146 -2.475c6.629 -0.947 12.78 -3.314 18.467 -7.105c0.84 -0.56 1.934 -0.56 2.774 -0Z" />
 </vector>

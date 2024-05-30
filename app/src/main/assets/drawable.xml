@@ -4,12 +4,12 @@
     <version>1</version>
 
     <category title="Added" />
-    <item drawable="_12123" />
     <item drawable="___7ma" />
     <item drawable="air_china" />
     <item drawable="alibaba" />
     <item drawable="amap" />
     <item drawable="___bga" />
+    <item drawable="blued" />
     <item drawable="cainiao" />
     <item drawable="caixin_news" />
     <item drawable="calculator" />
@@ -17,10 +17,10 @@
     <item drawable="camera" />
     <item drawable="chongqing_government" />
     <item drawable="chongqing_pay__easy" />
+    <item drawable="chongqing_wallet" />
     <item drawable="___chsi" />
     <item drawable="___cmcc" />
     <item drawable="contacts" />
-    <item drawable="___cq_wallet" />
     <item drawable="___crt" />
     <item drawable="___dcep" />
     <item drawable="dianping" />
@@ -44,9 +44,12 @@
     <item drawable="pixel_tips" />
     <item drawable="___psbc" />
     <item drawable="public_security_c__n" />
-    <item drawable="steam" />
+    <item drawable="___seu_campus" />
+    <item drawable="___seu_portal" />
+    <item drawable="___sf_express" />
     <item drawable="steam_chat" />
     <item drawable="steam___py" />
+    <item drawable="traffic_12123" />
     <item drawable="umetrip" />
     <item drawable="uniqlo" />
     <item drawable="we__meet" />

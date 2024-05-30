@@ -33,7 +33,6 @@
     </string-array>
 
     <string-array name="added">
-        <item>_12123</item>
         <item>___7ma</item>
         <item>air_china</item>
         <item>alibaba</item>
@@ -47,10 +46,10 @@
         <item>camera</item>
         <item>chongqing_government</item>
         <item>chongqing_pay__easy</item>
+        <item>chongqing_wallet</item>
         <item>___chsi</item>
         <item>___cmcc</item>
         <item>contacts</item>
-        <item>___cq_wallet</item>
         <item>___crt</item>
         <item>___dcep</item>
         <item>dianping</item>
@@ -79,6 +78,7 @@
         <item>___sf_express</item>
         <item>steam_chat</item>
         <item>steam___py</item>
+        <item>traffic_12123</item>
         <item>umetrip</item>
         <item>uniqlo</item>
         <item>we__meet</item>
