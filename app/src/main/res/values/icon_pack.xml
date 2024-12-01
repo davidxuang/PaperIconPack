@@ -28,31 +28,22 @@
     </string-array>
 
     <string-array name="added">
-        <item>___abc</item>
-        <item>air_macau</item>
-        <item>bo__com</item>
-        <item>cathay_pacific</item>
-        <item>___ccb</item>
-        <item>china_eastern</item>
-        <item>china_southern</item>
-        <item>china_telecom</item>
-        <item>china_unicom</item>
-        <item>___cib</item>
-        <item>___citic</item>
-        <item>juneyao_air</item>
-        <item>long__shot</item>
-        <item>mi__xplorer</item>
-        <item>shandong_airlines</item>
-        <item>shenzhen_airlines</item>
-        <item>sichuan_airlines</item>
-        <item>snapseed</item>
-        <item>___spdb</item>
-        <item>spring_airlines</item>
-        <item>xiamen_air</item>
+        <item>ali__express</item>
+        <item>campus_print</item>
+        <item>google_fit</item>
+        <item>google_meet</item>
+        <item>google_tv</item>
+        <item>google_wallet</item>
+        <item>graphie</item>
+        <item>lebara</item>
+        <item>transmission</item>
+        <item>unibuddy</item>
+        <item>you__tube_music</item>
+        <item>zhihu</item>
     </string-array>
 
     <string-array name="updated">
-        <item>alipay</item>
+        <item>google_play_store</item>
     </string-array>
 
     <string-array name="all">
@@ -62,6 +53,7 @@
         <item>___adm</item>
         <item>air_china</item>
         <item>air_macau</item>
+        <item>ali__express</item>
         <item>alibaba</item>
         <item>alipay</item>
         <item>allnow</item>
@@ -73,6 +65,7 @@
         <item>bmap</item>
         <item>bo__c</item>
         <item>bo__com</item>
+        <item>campus_print</item>
         <item>cainiao</item>
         <item>caixin_news</item>
         <item>calculator</item>
@@ -110,10 +103,15 @@
         <item>google</item>
         <item>google_drive</item>
         <item>google_earth</item>
+        <item>google_fit</item>
         <item>google_lens</item>
         <item>google_maps</item>
+        <item>google_meet</item>
         <item>google_photos</item>
         <item>google_play_store</item>
+        <item>google_tv</item>
+        <item>google_wallet</item>
+        <item>graphie</item>
         <item>greenify</item>
         <item>guangfa_securities</item>
         <item>hello</item>
@@ -126,6 +124,7 @@
         <item>jingdong_finance</item>
         <item>juneyao_air</item>
         <item>kodi</item>
+        <item>lebara</item>
         <item>long__shot</item>
         <item>meituan</item>
         <item>messages</item>
@@ -161,8 +160,10 @@
         <item>terminal</item>
         <item>___tim</item>
         <item>traffic_12123</item>
+        <item>transmission</item>
         <item>twitter</item>
         <item>umetrip</item>
+        <item>unibuddy</item>
         <item>union__pay</item>
         <item>uniqlo</item>
         <item>we__chat</item>
@@ -171,7 +172,9 @@
         <item>xiamen_air</item>
         <item>xiaohongshu</item>
         <item>you__tube</item>
+        <item>you__tube_music</item>
         <item>youpin</item>
+        <item>zhihu</item>
     </string-array>
 
 </resources>

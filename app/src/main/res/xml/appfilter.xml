@@ -57,6 +57,10 @@
         drawable="air_macau" />
 
     <item
+        component="ComponentInfo{com.alibaba.aliexpresshd/com.aliexpress.app.FirstActivity}"
+        drawable="ali__express" />
+
+    <item
         component="ComponentInfo{com.alibaba.wireless/com.alibaba.wireless.launch.LauncherActivity}"
         drawable="alibaba" />
 
@@ -107,10 +111,17 @@
     <item
         component="ComponentInfo{com.chinamworld.bocmbci/com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity}"
         drawable="bo__c" />
+    <item
+        component="ComponentInfo{com.forms/com.forms.start.ActStart}"
+        drawable="bo__c" />
 
     <item
         component="ComponentInfo{com.bankcomm.Bankcomm/com.bankcomm.module.biz.home.MainActivity}"
         drawable="bo__com" />
+
+    <item
+        component="ComponentInfo{com.canon.Blizzard/com.canon.Blizzard.MainActivity}"
+        drawable="campus_print" />
 
     <item
         component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.view.activity.WelcomeActivity}"
@@ -579,6 +590,10 @@
         drawable="google_earth" />
 
     <item
+        component="ComponentInfo{com.google.android.apps.fitness/com.google.android.apps.fitness.welcome.WelcomeActivity}"
+        drawable="google_fit" />
+
+    <item
         component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}"
         drawable="google_lens" />
 
@@ -587,12 +602,28 @@
         drawable="google_maps" />
 
     <item
+        component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}"
+        drawable="google_meet" />
+
+    <item
         component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}"
         drawable="google_photos" />
 
     <item
         component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}"
         drawable="google_play_store" />
+
+    <item
+        component="ComponentInfo{com.google.android.videos/com.google.android.videos.GoogleTvEntryPoint}"
+        drawable="google_tv" />
+
+    <item
+        component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.wallet.WalletActivity}"
+        drawable="google_wallet" />
+
+    <item
+        component="ComponentInfo{com.pavelrekun.graphie/com.pavelrekun.graphie.navigation.NavigationActivity}"
+        drawable="graphie" />
 
     <item
         component="ComponentInfo{com.oasisfeng.greenify/com.oasisfeng.greenify.GreenifyActivity}"
@@ -644,6 +675,10 @@
     <item
         component="ComponentInfo{org.xbmc.kodi/org.xbmc.kodi.Splash}"
         drawable="kodi" />
+
+    <item
+        component="ComponentInfo{com.lebara.wallet/com.storybookmobile.MainActivity}"
+        drawable="lebara" />
 
     <item
         component="ComponentInfo{com.leavjenn.longshot/com.leavjenn.longshot.MainActivity}"
@@ -1098,12 +1133,20 @@
         drawable="traffic_12123" />
 
     <item
+        component="ComponentInfo{com.sleroy.transmissionic/com.sleroy.transmissionic.MainActivity}"
+        drawable="transmission" />
+
+    <item
         component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}"
         drawable="twitter" />
 
     <item
         component="ComponentInfo{com.umetrip.android.msky.app/com.umetrip.android.msky.app.module.startup.SplashActivity}"
         drawable="umetrip" />
+
+    <item
+        component="ComponentInfo{com.unibuddy.community/com.unibuddy.community.MainActivity}"
+        drawable="unibuddy" />
 
     <item
         component="ComponentInfo{com.unionpay/com.unionpay.activity.UPActivityMain}"
@@ -1150,7 +1193,15 @@
         drawable="you__tube" />
 
     <item
+        component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}"
+        drawable="you__tube_music" />
+
+    <item
         component="ComponentInfo{com.uu898.uuhavequality/com.uu898.uuhavequality.module.start.SplashActivity}"
         drawable="youpin" />
+
+    <item
+        component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.LauncherActivity}"
+        drawable="zhihu" />
 
 </resources>

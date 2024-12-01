@@ -29,6 +29,10 @@
         name="air_macau" />
 
     <item
+        class="com.aliexpress.app.FirstActivity"
+        name="ali__express" />
+
+    <item
         class="com.alibaba.wireless.launch.LauncherActivity"
         name="alibaba" />
 
@@ -76,10 +80,17 @@
     <item
         class="com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity"
         name="bo__c" />
+    <item
+        class="com.forms.start.ActStart"
+        name="bo__c" />
 
     <item
         class="com.bankcomm.module.biz.home.MainActivity"
         name="bo__com" />
+
+    <item
+        class="com.canon.Blizzard.MainActivity"
+        name="campus_print" />
 
     <item
         class="com.cainiao.wireless.homepage.view.activity.WelcomeActivity"
@@ -488,6 +499,10 @@
         name="google_earth" />
 
     <item
+        class="com.google.android.apps.fitness.welcome.WelcomeActivity"
+        name="google_fit" />
+
+    <item
         class="com.google.vr.apps.ornament.app.lens.LensLauncherActivity"
         name="google_lens" />
 
@@ -496,12 +511,28 @@
         name="google_maps" />
 
     <item
+        class="com.google.android.apps.tachyon.MainActivity"
+        name="google_meet" />
+
+    <item
         class="com.google.android.apps.photos.home.HomeActivity"
         name="google_photos" />
 
     <item
         class="com.android.vending.AssetBrowserActivity"
         name="google_play_store" />
+
+    <item
+        class="com.google.android.videos.GoogleTvEntryPoint"
+        name="google_tv" />
+
+    <item
+        class="com.google.commerce.tapandpay.android.wallet.WalletActivity"
+        name="google_wallet" />
+
+    <item
+        class="com.pavelrekun.graphie.navigation.NavigationActivity"
+        name="graphie" />
 
     <item
         class="com.oasisfeng.greenify.GreenifyActivity"
@@ -553,6 +584,10 @@
     <item
         class="org.xbmc.kodi.Splash"
         name="kodi" />
+
+    <item
+        class="com.storybookmobile.MainActivity"
+        name="lebara" />
 
     <item
         class="com.leavjenn.longshot.MainActivity"
@@ -977,12 +1012,20 @@
         name="traffic_12123" />
 
     <item
+        class="com.sleroy.transmissionic.MainActivity"
+        name="transmission" />
+
+    <item
         class="com.twitter.android.StartActivity"
         name="twitter" />
 
     <item
         class="com.umetrip.android.msky.app.module.startup.SplashActivity"
         name="umetrip" />
+
+    <item
+        class="com.unibuddy.community.MainActivity"
+        name="unibuddy" />
 
     <item
         class="com.unionpay.activity.UPActivityMain"
@@ -1026,7 +1069,15 @@
         name="you__tube" />
 
     <item
+        class="com.google.android.apps.youtube.music.activities.MusicActivity"
+        name="you__tube_music" />
+
+    <item
         class="com.uu898.uuhavequality.module.start.SplashActivity"
         name="youpin" />
+
+    <item
+        class="com.zhihu.android.app.ui.activity.LauncherActivity"
+        name="zhihu" />
 
 </appmap>

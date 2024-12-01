@@ -4,29 +4,20 @@
     <version>1</version>
 
     <category title="Added" />
-    <item drawable="___abc" />
-    <item drawable="air_macau" />
-    <item drawable="bo__com" />
-    <item drawable="cathay_pacific" />
-    <item drawable="___ccb" />
-    <item drawable="china_eastern" />
-    <item drawable="china_southern" />
-    <item drawable="china_telecom" />
-    <item drawable="china_unicom" />
-    <item drawable="___cib" />
-    <item drawable="___citic" />
-    <item drawable="juneyao_air" />
-    <item drawable="long__shot" />
-    <item drawable="mi__xplorer" />
-    <item drawable="shandong_airlines" />
-    <item drawable="shenzhen_airlines" />
-    <item drawable="sichuan_airlines" />
-    <item drawable="snapseed" />
-    <item drawable="___spdb" />
-    <item drawable="spring_airlines" />
-    <item drawable="xiamen_air" />
+    <item drawable="ali__express" />
+    <item drawable="campus_print" />
+    <item drawable="google_fit" />
+    <item drawable="google_meet" />
+    <item drawable="google_tv" />
+    <item drawable="google_wallet" />
+    <item drawable="graphie" />
+    <item drawable="lebara" />
+    <item drawable="transmission" />
+    <item drawable="unibuddy" />
+    <item drawable="you__tube_music" />
+    <item drawable="zhihu" />
 
     <category title="Updated" />
-    <item drawable="alipay" />
+    <item drawable="google_play_store" />
 
 </resources>
